@@ -1,7 +1,7 @@
 # nezzixccc
 
 > Hello World in asm?
-> UI/UX Design  
+
 
 # Technologies & Tools
 
