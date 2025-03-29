@@ -1,8 +1,7 @@
 # nezzixccc
 
-### Desktop Application Developer
+> Hello World in asm?
 > UI/UX Design  
-> Cross-Platform Development
 
 # Technologies & Tools
 
