@@ -1,42 +1,70 @@
 # nezzixccc
 
-> Desktop Application Developer
+<div align="center">
+  <p><i>Hello World in asm?</i></p>
+
+  ```asm
+  section .data
+      msg db 'Hello, World!', 0Ah
+      len equ $ - msg
+
+  section .text
+      global _start
+
+  _start:
+      mov eax, 4      ; sys_write
+      mov ebx, 1      ; stdout
+      mov ecx, msg    ; message
+      mov edx, len    ; length
+      int 80h         ; syscall
+      
+      mov eax, 1      ; sys_exit
+      xor ebx, ebx    ; return 0
+      int 80h         ; syscall
+  ```
+</div>
 
 ## Skills
 
-```
-Desktop Applications • UI/UX Design • Cross-Platform Development
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-2d333b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Platform%20Development-2d333b?style=for-the-badge&logoColor=white" />
+</div>
 
 ## Technologies
 
-![C#](https://img.shields.io/badge/C%23-242938?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-242938?style=flat&logo=dotnet&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-242938?style=flat&logo=electron&logoColor=white)
-![Python](https://img.shields.io/badge/Python-242938?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-242938?style=flat&logo=sqlite&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/NodeJS-1e4273?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-2b3a55?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-44273c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-3d2e40?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
 
 ## OS & Tools
 
-![Windows](https://img.shields.io/badge/Windows-242938?style=flat&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-242938?style=flat&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-242938?style=flat&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-242938?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-242938?style=flat&logo=visual-studio&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows-2d333b?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-2d333b?style=for-the-badge&logo=linux&logoColor=white" />
+</div>
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nezzixccc&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=777777" alt="GitHub Stats">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nezzixccc&show_icons=true&hide_title=true&hide_border=true&bg_color=22272e&text_color=adbac7&icon_color=909dab&title_color=539bf5&ring_color=c96198" alt="GitHub Stats" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezzixccc&layout=compact&hide_border=true&bg_color=00000000&text_color=777777" alt="Top Languages">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezzixccc&layout=compact&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=539bf5" alt="Top Languages" />
+</div>
 
-## Projects
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nezzixccc&hide_border=true&background=22272E&stroke=539BF5&ring=C96198&fire=DD5C37&currStreakNum=ADBAC7&sideNums=ADBAC7&currStreakLabel=539BF5&sideLabels=539BF5&dates=768390" alt="GitHub Streak" />
+</div>
 
-- **DesktopCompanion** - Productivity suite for developers
-- **CrossPlatformUI** - Modern UI toolkit for desktop applications
-- **DataVisualizer** - Interactive data visualization tool
+<br>
 
-## Contact
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&color=539BF5&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
 
-- [GitHub](https://github.com/nezzixccc)
-- [LinkedIn](https://linkedin.com/in/nezzixccc)
+</div>
