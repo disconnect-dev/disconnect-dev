@@ -1,7 +1,4 @@
-# nezzixccc
-
-> Hello World in asm?
-
+#👋🏻 Hello, World!
 
 # Technologies & Tools
 
