@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ecl1pseDev
+# 👋 Hi there, I'm nezzixccc
 
 ## 🌟 About Me
 ```typescript
