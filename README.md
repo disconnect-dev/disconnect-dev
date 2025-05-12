@@ -13,5 +13,5 @@ const developer = {
 };
 ```
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nezzixccc&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=disconnect-dev&show_icons=true&theme=dark&hide_border=true)
 
