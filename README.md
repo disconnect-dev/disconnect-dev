@@ -1,9 +1,3 @@
-  # 👨‍💻 About Me
-
-  > 🤖 Discord & Telegram Bots Developer  
-  > 🌐 Web Developer  
-  > 💻 Python & NodeJS Enthusiast
-
   # 🛠 Technologies & Tools
   
   ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js&logoColor=339933)
