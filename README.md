@@ -1,4 +1,4 @@
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm disconnect-dev
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Disconnect
   
   ### Who am I?
   > 🤖 Discord & Telegram Bots Developer  
