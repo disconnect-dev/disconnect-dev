@@ -1,6 +1,6 @@
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm disconnect-dev
   
-  ### Pythonist Developer
+  ### Who am I?
   > 🤖 Discord & Telegram Bots Developer  
   > 🌐 Web Developer  
   > 💻 Python & NodeJS Enthusiast
